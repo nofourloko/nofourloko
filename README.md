@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+- 🔭 I’m currently working on BookItNow (Website for scheduling vists for services)
+- 🖥️ I work with MERN, C#, Python
+- 🌱 I’m currently learning Kotlin
+- 📫 How to reach me: Write to me on github or visit my LinkedIn
 <!--
 **nofourloko/nofourloko** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
