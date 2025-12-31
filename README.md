@@ -1,5 +1,4 @@
 ### Hi there 👋
-- 🔭 I’m currently working on BookItNow (Website for scheduling vists for services)
 - 🖥️ I work with MERN, C#, Python
 - 📫 How to reach me: Write to me on github or visit my LinkedIn
 <!--
